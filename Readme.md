@@ -1,5 +1,5 @@
-# The objective of the project is to develop a model that can recognize objects in climatic data. The
-main objectives of the project are listed below:
+# The objective of the project is to develop a model that can recognize objects in climatic data. 
+The main objectives of the project are listed below:
 1. To identify suitable and highly efficient CNN models for Object Recognition.
 2. Perform Object Classification and Image detection to assign proper labels to the objects
 in the scene.
